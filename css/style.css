@@ -332,20 +332,29 @@ img{
 .skills__html{
   width: 75%;
 }
-.skills__css{
-  width: 83%;
+.skills__python{
+  width: 70%;
 }
-.skills__js{
-  width: 67%;
+.skills__css{
+  width: 46%;
+}
+.skills__django{
+  width: 65%;
+}
+.skills__flask{
+  width: 70%;
 }
 .skills__react{
   width: 54%;
 }
 .skills__bootstrap{
-  width: 82%;
+  width: 55%;
 }
-.skills__sass{
-  width: 70%;
+.skills__flutter{
+  width: 60%;
+}
+.skills__dart{
+  width: 52%;
 }
 .skills__git{
   width: 60%;
