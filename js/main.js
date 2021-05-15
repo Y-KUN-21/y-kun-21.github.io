@@ -26,7 +26,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 // AUTO-TYPING
 var typed = new Typed('.home__title-color', {
-  strings: ['Kunal yadav.', 'a Software Developer.'],
+  strings: ['Kunal yadav.', 'a Flutter Developer.', 'a Web Developer.'],
   typeSpeed: 60,
   backSpeed: 60,
   loop: true,
